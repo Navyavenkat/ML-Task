@@ -15,4 +15,11 @@ testing set using appropriate metrics
 matplotlib or any other suitable visualization library.
 
 # Output
-     
+
+# Training Graph
+
+# Testing Graph
+
+# Simple Linear Regression
+
+# Accuracy
